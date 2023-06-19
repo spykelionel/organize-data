@@ -4,4 +4,4 @@
 
 > **I don't own any code in this repository. Use at your own risk**
 
-> Code credit: @muhacolee4
+> Code credit(splitting the dataset): [Engr. Sule Muhammed Abba](https://github.com/muhacolee4)
